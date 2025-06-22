@@ -1,6 +1,0 @@
-package week_1.engineering_concept.design_patterns_and_principle.FactoryMethodPatternExample;
-
-public class Pdffactory  extends DocumentFactory{
-
-    
-}
